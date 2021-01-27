@@ -19,3 +19,5 @@ browser.find_element_by_tag_name('body').screenshot('web_screenshot.png')
 end = time.time()
 tot_time = (end - start)
 print(tot_time)
+
+#wew
